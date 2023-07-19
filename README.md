@@ -1,7 +1,7 @@
 # PianoTiles-BOT
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 
-- A Python script that automates the Piano Tiles game.
+- A Python script that automates the Piano Tiles game. [!PianoTiles](https://lagged.com/en/g/magic-tiles) 
 - The Python script will use PyAutoGUI to locate and click on the black tiles as they appear on the screen.
 - PyWin32 will be used to bring the click the tiles.
 
