@@ -10,13 +10,13 @@
 - Download or clone my Repository to your device.
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project).
 - Bring the game window into focus.
-- Determine the tile's coordinates ( X , Y ) co-ordinates of all the 4 tiles using the `loacte_xy_pos.py` script.  
-- Just run `pianotiles.py` file .
+- Determine the tile's coordinates ( X , Y ) co-ordinates of all the 4 tiles using the `locate_xy_pos.py` script.  
+- Just run `Piano Tiles.py` file .
   
 
 ### Screenshots
 
-<img src='https://github.com/MusadiqPasha/MonkeyType-BOT/blob/main/modes.png'>
+<img src='https://github.com/MusadiqPasha/PianoTiles/blob/main/tiles.png'>
 
 ### Disclaimer
 The Piano Tiles Bot is intended for educational purposes only. The authors and contributors of this repository are not responsible for any misuse or consequences resulting from the use of this software. Use it responsibly and at your own risk.
