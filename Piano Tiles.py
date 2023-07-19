@@ -4,9 +4,10 @@ import keyboard
 import win32api, win32con
 
 # https://lagged.com/en/g/magic-tiles
+
 time.sleep(3)
 print("started")
-# RGB: ( 47,  47,  55)#
+# RGB: ( 47,  47,  55)
 # X:  429 Y:  522 RGB: ( 21,  49,  86)
 #Tile 1 Position: X:  300 Y:  800 RGB: ( 47,  47, 55)
 #Tile 2 Position: X:  425 Y:  800 RGB: (  0,   0,   0)
