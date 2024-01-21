@@ -5,7 +5,7 @@
 - The Python script will use PyAutoGUI to locate and click on the black tiles as they appear on the screen.
 - PyWin32 will be used to bring the click the tiles.
 
-### What steps you have to follow??
+### Steps to Follow
 
 - Download or clone my Repository to your device.
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project).
